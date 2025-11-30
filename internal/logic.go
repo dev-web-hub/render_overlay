@@ -6,6 +6,5 @@ type Input struct {
 }
 
 func Run(input Input) error {
-    // TODO: implement render_overlay logic
     return nil
 }
